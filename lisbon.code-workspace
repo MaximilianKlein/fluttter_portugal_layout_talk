@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "basic_widgets"
+		},
+		{
+			"path": "constraints"
+		},
+		{
+			"path": "unconstraints"
+		},
+		{
+			"path": "stacks"
+		},
+		{
+			"path": "renderobject"
+		}
+	]
+}
